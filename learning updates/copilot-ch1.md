@@ -1,7 +1,7 @@
 # GitHub Copilot 
 
 ## Chapter 1 - Setting Up
-## What I Did
+### What I Did
 - Installed VS Code  
 - Installed GitHub Copilot extension  
 - Linked my GitHub account to VS Code
