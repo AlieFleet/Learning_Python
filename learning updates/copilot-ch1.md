@@ -1,5 +1,6 @@
-# GitHub Copilot – Chapter 1 Notes
+# GitHub Copilot 
 
+## Chapter 1 - Setting Up
 ## What I Did
 - Installed VS Code  
 - Installed GitHub Copilot extension  
